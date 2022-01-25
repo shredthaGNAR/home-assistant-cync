@@ -1,0 +1,10 @@
+{
+  "domain": "cync_light",
+  "name": "Cync Light",
+  "documentation": "https://github.com/cbrooker/home-assistant-cync",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["awesomelights==1.2.3"],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
