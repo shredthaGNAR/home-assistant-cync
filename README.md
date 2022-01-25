@@ -2,6 +2,8 @@
 
 ** This has only been tested with the GE Cync Light strip but it should work with any GE Cync wifi lights. **
 
+[GE Cync ](https://www.gelighting.com/)
+
 # Installation
 
 This custom component can be installed in two different ways: `manually` or `using HACS` (coming)
