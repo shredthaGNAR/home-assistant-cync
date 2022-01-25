@@ -1,1 +1,1 @@
-"""Example Lights integration."""
+"""Cync Lighting integration in Home-Assistant."""

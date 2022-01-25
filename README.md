@@ -1,8 +1,12 @@
 # Home Assistant custom component for GE Cync wifi lights
 
+## This is a work in progress and not yet working
+
 ** This has only been tested with the GE Cync Light strip but it should work with any GE Cync wifi lights. **
 
 [GE Cync ](https://www.gelighting.com/)
+
+Big thanks to [https://github.com/unixpickle/cbyge](https://github.com/unixpickle/cbyge) for reverse engineering the API.
 
 # Installation
 
